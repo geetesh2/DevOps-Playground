@@ -12,4 +12,4 @@ jobs:
       - name: Restore dependencies
         run: dotnet restore
       - name: Build project
-        run: dotnet build --no-restore
+        run: dotnet build --no-restore₹₹

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "UCdPyS8QDsc=",
+  "success": true,
+  "projectFilePath": "/Users/geetesh/Documents/DevOps-Playground/Example.Api/Example.Api.csproj",
+  "expectedPackageFiles": [
+    "/Users/geetesh/.nuget/packages/microsoft.aspnetcore.openapi/9.0.6/microsoft.aspnetcore.openapi.9.0.6.nupkg.sha512",
+    "/Users/geetesh/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
